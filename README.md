@@ -31,7 +31,8 @@ I work use : 👇
 ![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/SQL%20Server-CC2927?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Couchbase-31C48D?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/-Linux-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
 ![](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![](https://img.shields.io/badge/-Postman-43853d?style=for-the-badge&logo=postman&logoColor=white)
   
