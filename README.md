@@ -35,6 +35,11 @@ I work use : 👇
 ![](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![](https://img.shields.io/badge/-Postman-43853d?style=for-the-badge&logo=postman&logoColor=white)
   
+Leisure Life : 
+
+![](https://img.shields.io/badge/-Border%20Collie-220052?style=for-the-badge&logo=datadog&logoColor=white)
+![](https://img.shields.io/badge/Pourover%20Coffee-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white)
+  
 
 
 &nbsp;
