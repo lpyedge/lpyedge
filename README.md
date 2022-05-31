@@ -25,7 +25,7 @@ I code with :  👇
 ![](https://img.shields.io/badge/-Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
 ![](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
 
-I work use :
+I work use : 👇
 
 ![](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
