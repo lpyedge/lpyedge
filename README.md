@@ -4,11 +4,11 @@
 
 Hello 🖐️ friends, welcome to my github profile.
 
-I am mainly engaged in web design and development for Microsoft technology stack, first developing asp.net websites from .net framework 2.0 until recently developing asp.net core websites with .net 6.0. From the earliest webform development to MVC Razor template to asp.net core development api with vue.js front end development website. Database using MSSQL Server, SQLite, MYSQL Server, and related services deployment, IIS based on windwos server, and ngnix based on linux (debian, ubuntu).
+I am mainly engaged in web design and development of Microsoft technology stack, first from .net framework 2.0 to do web development, to the latest .net core. from webform development to MVC (Razor template) to asp.net development api with vue.js front-end development website. Database using MSSQL Server, SQLite, MYSQL Server. Web service deployment is usually IIS based on windwos server, and ngnix based on linux (debian, ubuntu).
 
-Other programming areas have been exposed to winform development, cordova multi-end mobile application development, flutter multi-end mobile application development, etc. I have also tried some docker related development use.
+I have also done winform development, cordova multi-end mobile application development, flutter multi-end mobile application development, etc. I have also tried some docker related development use.
 
-Currently, I have been working in R&D field for more than fifteen years. And lead the R&D team to continue the development.
+Currently, I have been working in the R&D field for more than 15 years. And leading R&D team to continue development.
 
 I code with :  👇
 
