@@ -8,7 +8,7 @@ I am mainly engaged in web design and development of Microsoft technology stack,
 
 I have also done winform development, cordova multi-end mobile application development, flutter multi-end mobile application development, etc. I have also tried some docker related development use.
 
-Currently, I have been working in the R&D field for more than 15 years. And leading R&D team to continue development.
+Currently, I have been working in R&D for more than 15 years. And lead the R&D team to continue to develop.
 
 I code with :  👇
 
