@@ -6,11 +6,13 @@ Hello 🖐️ friends, welcome to my github profile.
 
 I am mainly engaged in web design and development of Microsoft technology stack, first from .net framework 2.0 to do web development, to the latest .net core. from webform development to MVC (Razor template) to asp.net development api with vue.js front-end development website. Database using MSSQL Server, SQLite, MYSQL Server. Web service deployment is usually IIS based on windwos server, and ngnix based on linux (debian, ubuntu).
 
-I have also done winform development, cordova multi-end mobile application development, flutter multi-end mobile application development, etc. I have also tried some docker related development use.
+Also have development experience in winform, cordova multi end mobile application, flutter multi end mobile application. Have done some docker related development.
 
-Currently, I have been working in R&D for more than 15 years. And lead the R&D team to continue to develop.
+As the leader of the R&D team, I created and led the technical team to complete the project development tasks given by the company in a timely and excellent manner.
 
-I code with :  👇
+Currently, I have worked in R&D for more than 15 years and have more than 5 years of experience in leading R&D teams.
+
+🔣 Code With
 
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -24,7 +26,7 @@ I code with :  👇
 ![](https://img.shields.io/badge/-Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
 ![](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
 
-I work use : 👇
+👨‍💻 Devlope Use
 
 ![](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -35,7 +37,7 @@ I work use : 👇
 ![](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![](https://img.shields.io/badge/-Postman-43853d?style=for-the-badge&logo=postman&logoColor=white)
   
-Leisure Life : 
+🏡 Leisure Life
 
 ![](https://img.shields.io/badge/-Border%20Collie-D77310?style=for-the-badge&logo=datadog&logoColor=white)
 ![](https://img.shields.io/badge/Camping-00B388?style=for-the-badge&logo=accusoft&logoColor=white)
