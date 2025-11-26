@@ -1,7 +1,7 @@
 [![github](https://img.shields.io/badge/lpyedge-5C2D91.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lpyedge/)
 ### Hi there 👋, welcome to my profile!
 
-I am a **Senior R&D Team Lead** & **Full Stack Developer** based in Tokyo 🇯🇵, with **15+ years** of experience in software development and **5+ years** in technical leadership.
+I am a **Senior R&D Team Lead** & **Full Stack Developer** based in Tokyo 🇯🇵, with **15+ years** of experience in software development and **10+ years** in technical leadership.
 
 Here is what I do:
 
