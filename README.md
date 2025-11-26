@@ -11,18 +11,6 @@ Here is what I do:
 *   ⚙️ **DevOps & Infra**: Hands-on experience with **Docker**, **IIS** (Windows), and **Nginx** (Linux/Debian/Ubuntu).
 *   🗄️ **Databases**: MSSQL Server, MySQL, and SQLite.
 
-### 🔣 Frameworks
-
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🛠️ DevOps
-
-![](https://img.shields.io/badge/-Docker-4FC08D?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/-Linux-EA2328?style=for-the-badge&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=win&logoColor=white)
-
 ### 🏡 Life
 
 ![](https://img.shields.io/badge/-Border%20Collie-D77310?style=for-the-badge&logo=datadog&logoColor=white)
